@@ -1,24 +1,29 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <About/>
+  <Equipment/>
+  <Contact/>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import About from './components/About.vue'
+import Equipment from './components/Equipment.vue'
+import Contact from './components/Contact.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    About,
+    Equipment,
+    Contact
   }
 }
 </script>
 
 <style>
+
+@import url('https://fonts.googleapis.com/css2?family=Kaisei+HarunoUmi:wght@500&display=swap');
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  font-family: 'Kaisei HarunoUmi', serif;
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
