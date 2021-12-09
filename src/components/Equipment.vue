@@ -4,7 +4,9 @@
     <ul>
       <li>Adobe Audition 2021</li>
       <li>vocal shifter(有償版)</li>
-      <li>iZotope Nectar 3 Elements</li>
+      <li>iZotope Nectar 3 Plus</li>
+      <li>iZotope RX8 Breath Control</li>
+      <li>iZotope vocalSynth2</li>
       <li>Waves Audio OVox Vocal Resynth</li>
     </ul>
   </div>
